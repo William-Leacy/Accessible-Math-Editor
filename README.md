@@ -1,3 +1,6 @@
+You can view this project here: https://william-leacy.github.io/Accessible-Math-Editor/
+
+
 # Accessible-Math-Editor
 
 Authoring Maths problems and their solutions is a major challenge for those with Visual Impairment and Blindness. This is a highly visual problem domain where spatial arrangement and layout are central to the semantic interpretation for mathematical content. The challenge is to provide an easy to use interface to the authoring application which works with complex assistive technologies such as screen readers. Specific challenges include the aggregation of complex technologies and standards including approaches to Accessible STEM such as MathML, MathJax, Accessible Rich Internet Application (ARIA), Web Content Accessibility Guidelines (WCAG) Authoring Standards such as Authoring Tools Accessibility Guidelines (ATAG) and output mechanisms such as Screen readers with their nuanced application and versioning issues.
