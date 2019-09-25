@@ -1,8 +1,4 @@
 
-    /**
-    todo
-    unesscary nesting with addend
-    **/
 
 function wholeNumber() {
             const numbers = [];
@@ -119,7 +115,7 @@ function wholeNumber() {
                 }
             }
 
-            /* there is a bug here with the length of last number ??? */
+
             
             for (let i = 0; i < numbers.length; i++) {
                 if (numbers[i].length > longestNumber) {

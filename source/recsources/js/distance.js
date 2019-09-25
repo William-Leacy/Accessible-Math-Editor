@@ -1,10 +1,6 @@
 
 
 
-    /**
-    todo
-    unesscary nesting with addend
-    **/
 
 function distance() {
             const numbers = [];
@@ -167,7 +163,7 @@ function distance() {
                 }
             }
 
-            /* there is a bug here with the length of last number ??? */
+
             
             for (let i = 0; i < numbers.length; i++) {
                 if (numbers[i].length > longestNumber) {
